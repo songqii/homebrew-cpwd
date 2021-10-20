@@ -1,10 +1,9 @@
-class CpwdBinary < Formula
+class Cpwd < Formula
   desc ""
-  homepage "https://github.com/songqii/cpwd"
-  url "https://github.com/songqii/cpwd_binary/archive/refs/tags/v1.0.0.tar.gz"
-  sha256 "6d56e911c8a40c906121aba31653bea4a6dfa4e75117d00d7d82cc60747f4389"
-  version "1.0.0"
-  license "MIT"
+  homepage ""
+  url "https://github.com/songqii/cpwd/archive/refs/tags/v1.0.0.tar.gz"
+  sha256 "950026e0bb429c7e7b71bfd8d04fd9d3658d798470036caf99201098ed11bc3d"
+  license ""
 
 
   def install
